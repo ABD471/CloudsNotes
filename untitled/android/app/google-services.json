@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1083935738041",
+    "project_id": "untitled-a8c78",
+    "storage_bucket": "untitled-a8c78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083935738041:android:4e9c2bced917f059e33368",
+        "android_client_info": {
+          "package_name": "com.example.CluodNotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083935738041-jt4nlov8u49r81jc7fg056hgi2ocgspl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.CluodNotes",
+            "certificate_hash": "978d3f0ee0744e21e28410a7be23c0652e1e2717"
+          }
+        },
+        {
+          "client_id": "1083935738041-o0tf05uqh6407s46vgiv7u3qr3uc4buu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4RqhWF1mMjZng-ZuWGHB-SpDZyolPpO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083935738041-o0tf05uqh6407s46vgiv7u3qr3uc4buu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
